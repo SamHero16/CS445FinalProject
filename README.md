@@ -29,4 +29,4 @@ This project uses data collected by farms at CSU to predict the outcome of pregn
 ---
 
 
-Data was collectedat CSU farms. I recieved it from Dr. Pinedo and Dr. Alvarez in the Department of Animal Sciences .
+Data was collectedat CSU farms. I recieved it from Dr. Pinedo and Dr. Alvarez in the Department of Animal Sciences. The raw datset was too large, but the cleaned data can be found in this repository at DOWNSAMPLEcleanDataApr22.csv and unusedDataApr22.csv.
