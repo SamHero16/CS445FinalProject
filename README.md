@@ -3,7 +3,7 @@ Sam Herold, Dr. Pablo Pinedo, Dr. Manriquez Alvarez
 
 
 ### **Predicting Cow Pregnancy Outcomes using Health Data**
-This project hoped to use data collected by farms at CSU to predict the outcome of pregnancies in cows. There are three .ipynb files that are in a specific order:
+This project uses data collected by farms at CSU to predict the outcome of pregnancies in cows. There are three .ipynb files that are in a specific order:
 
 1. Wrangling and Exploration.ipynb
    - Format the data for modeling.
