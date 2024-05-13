@@ -1,4 +1,4 @@
-# CS445FinalProject
+# CS478FinalProject
 Sam Herold, Dr. Pablo Pinedo, Dr. Manriquez Alvarez
 
 ---
